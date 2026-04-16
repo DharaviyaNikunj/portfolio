@@ -1,0 +1,15 @@
+# Normalize all text files
+* text=auto eol=lf
+
+# Source files
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.json text eol=lf
+*.css  text eol=lf
+*.scss text eol=lf
+*.md   text eol=lf
+
+# Windows scripts
+*.bat text eol=crlf

@@ -12,7 +12,7 @@ const contactBar = {
       type: "phone",
       label: "+91 76003 89101",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:+90 76003 89101"
+      link: "tel:+91 76003 89101"
     },
     {
       type: "website",
@@ -25,7 +25,7 @@ const contactBar = {
     {
       platform: "linkedin",
       icon: "/images/icon/linkedin-icon.svg",
-      link: "www.linkedin.com/in/nikunj-dharaviya"
+      link: "https://www.linkedin.com/in/nikunj-dharaviya"
     },
   ]
 };
@@ -85,7 +85,7 @@ const contactLinks = {
   socialLinks: [
     {
       title: "LinkedIn",
-      href: "/"
+      href: "https://www.linkedin.com/in/nikunj-dharaviya"
     },
   ],
   contactInfo: [

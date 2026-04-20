@@ -10,7 +10,7 @@ const bricolageGrotesque = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "NikunjProfile",
+  title: "NikunjPortfolio",
   description: "This is PortFolio of Nikunj Dharaviya",
 };
 
